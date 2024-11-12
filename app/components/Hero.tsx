@@ -17,7 +17,7 @@ const Hero = () => {
       alignItems: 'center'
     }}>
       <div className="content">
-        <h1 className="title">Hello, I am Nimra Akram..!</h1>
+        <h1 className="title">I am Nimra Akram..!</h1>
         <p className="subtitle">A passionate web developer and graphic designer who loves crafting visually striking, user-centered digital experiences. With a unique blend of technical expertise and creative flair, I specialize in building responsive websites, branding, and visual assets that resonate with audiences and elevate brands.</p>
         <a href="https://github.com/Nimraakram12" className="ctaButton" target="_blank" rel="noopener noreferrer">View My Work</a>
       </div>
