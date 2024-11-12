@@ -1,0 +1,71 @@
+
+
+.about {
+    padding: 60px 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+    background-image: url(/images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+  
+  .about-title {
+    font-size: 4rem;
+    color: rgb(103, 93, 250);
+    margin-bottom: 1rem;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  .about-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  
+  .about-image {
+    margin-bottom: 1rem;
+  }
+  
+  .profile-pic {
+    border-radius: 70%;
+    border: 4px solid #0070f3;
+  }
+  
+  .about-text {
+    text-align: left;
+    color: white;
+    font-size: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2rem;
+  }
+  
+  .about-text p {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .skills-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .skills-list li {
+    font-size: 1.5rem;
+    margin: 0.5rem 0;
+    color: rgb(95, 229, 253);
+    list-style: square;
+    line-height: 2rem;
+  }
+  .about-icons {
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    margin-top: 3rem;
+    font-size: 4rem; 
+    color: white;
+  }
